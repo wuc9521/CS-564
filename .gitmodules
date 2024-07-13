@@ -1,6 +1,12 @@
 [submodule "CS-564-B-plus-tree"]
-	path = CS-564-B-plus-tree
+	path = B-plus-tree
 	url = https://github.com/wuc9521/CS-564-B-plus-tree.git
 [submodule "CS-scholars-backend"]
-	path = CS-scholars-backend
+	path = backend
 	url = https://github.com/wuc9521/CS-scholars-backend.git
+[submodule "B-plus-tree"]
+	path = B-plus-tree
+	url = https://github.com/wuc9521/CS-564-B-plus-tree.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/wuc9521/CS-scholars-backend

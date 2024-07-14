@@ -10,3 +10,12 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/wuc9521/CS-scholars-backend
+[submodule "project/backend"]
+	path = project/backend
+	url = https://github.com/wuc9521/CS-scholars-backend
+[submodule "project/frontend"]
+	path = project/frontend
+	url = https://github.com/ArdaGurcan/cs-scholars-frontend.git
+[submodule "project/bptree"]
+	path = project/bptree
+	url = https://github.com/wuc9521/CS-564-B-plus-tree.git

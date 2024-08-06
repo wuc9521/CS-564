@@ -19,3 +19,6 @@
 [submodule "project/bptree"]
 	path = project/bptree
 	url = https://github.com/wuc9521/CS-564-B-plus-tree.git
+[submodule "project/docs"]
+	path = project/docs
+	url = https://github.com/wuc9521/CS-scholars-report.git
